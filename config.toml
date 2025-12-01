@@ -1,0 +1,6 @@
+baseURL = "https://yourusername.github.io/"
+title = "Mi Blog de Reviews"
+languageCode = "es"
+theme = "minimalfx"
+[pagination]
+	pagerSize = 10
