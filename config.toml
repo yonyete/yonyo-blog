@@ -1,4 +1,6 @@
 baseURL = "https://yonyete.github.io/yonyo-blog/"
+relativeURLs = true
+canonifyURLs = true
 title = "Mi Blog de Reviews"
 languageCode = "es"
 theme = "minimalfx"
